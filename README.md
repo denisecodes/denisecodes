@@ -28,8 +28,8 @@
    
 <div align="left">
   <h3>:woman_technologist: About Me : </h3>
-  📊 I am an Aspiring Data Analyst 📊
-  🌱 I’m currently learning SQL, Python and Tableau 
+  📊 I am an Aspiring Data Analyst 📊 <br>
+  🌱 I’m currently learning SQL, Python and Tableau <br>
   ⛳ Hobbies: Badminton 🏸 Baking 🧑‍🍳 Yoga 🧘‍♀️
 </div>
    
