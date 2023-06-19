@@ -32,7 +32,7 @@
 ---
    
 <div align="left">
-  <h3>:woman_technologist: About Me : </h3>
+  <h3>:woman_technologist: About Me </h3>
   📊 I am an Aspiring Full Stack/Data Engineer <br>
   📚 I am an Incoming Bootcamp Student at Makers <br>
   🌱 I’m currently learning Machine Learning <br>
@@ -42,7 +42,7 @@
 ---
 
 <div align="left">
-  <h3> :hammer_and_wrench: Languages and Tools : </h3>
+  <h3> :hammer_and_wrench: Languages and Tools </h3>
   <div>
     <h4> 📈 Data </h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
