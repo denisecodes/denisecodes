@@ -33,7 +33,7 @@
    
 <div align="left">
   <h3>:woman_technologist: About Me </h3>
-  👩🏻‍💻 I am an Aspiring Full Stack/Data Engineer <br>
+  🎯 I am an Aspiring Full Stack/Data Engineer <br>
   📚 I am an Incoming Bootcamp Student at Makers <br>
   🌱 I’m currently learning Machine Learning <br>
   ⛳ Hobbies: Badminton 🏸 Baking 🧑‍🍳 Yoga 🧘‍♀️ <br>
