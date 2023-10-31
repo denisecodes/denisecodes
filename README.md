@@ -22,7 +22,7 @@
   📊 Currently learning Data Engineering with Makers Academy and exploring data analysis with pandas (October to December 2023) <br>
   🥉 3rd Place of Showcode's Athena Hackathon July 2023 - <a href="https://www.canva.com/design/DAFnazjbsS0/1RjdTRm9NMZcG7NF_rhIvQ/edit?utm_content=DAFnazjbsS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Love is Blind - Work Edition </a> <br>
   ⛳ My hobbies include Badminton 🏸 Baking 🧑‍🍳 Yoga 🧘‍♀️ <br>
-  💻 Open to opportunities from January 2023, you can find me on LinkedIn <a href="https://www.linkedin.com/in/cyk-denise/">here</a> or learn more about me from my CV <a href="https://github.com/denisecodes/CV">here</a>
+  💻 Open to opportunities from January 2024, you can find me on LinkedIn <a href="https://www.linkedin.com/in/cyk-denise/">here</a> or learn more about me from my CV <a href="https://github.com/denisecodes/CV">here</a>
 </div>
    
 ---
