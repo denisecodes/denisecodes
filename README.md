@@ -19,7 +19,6 @@
 <div align="left">
   <h3>👋 About Me </h3>
   👩🏻‍💻 DevOps/Software Developer Graduate from <a href="https://makers.tech/">Makers Academy</a> Bootcamp (July to October 2023) <br>
-  📊 Currently learning Data Engineering with Makers Academy (October to December 2023) <br>
   🥉 3rd Place at Showcode's Athena Hackathon July 2023 - <a href="https://www.canva.com/design/DAFnazjbsS0/1RjdTRm9NMZcG7NF_rhIvQ/edit?utm_content=DAFnazjbsS0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Love is Blind - Work Edition </a> <br>
   ⛳ My hobbies include Badminton 🏸 Baking 🧑‍🍳 Yoga 🧘‍♀️ <br>
   💻 Open to opportunities from January 2024, you can find me on LinkedIn <a href="https://www.linkedin.com/in/cyk-denise/">here</a> or learn more about me from my CV <a href="https://github.com/denisecodes/CV">here</a>
